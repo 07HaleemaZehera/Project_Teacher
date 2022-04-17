@@ -1,0 +1,176 @@
+{
+  "teacher_details": [
+    {
+      "name": "Sheela",
+      "gender": "female",
+      "age": 23,
+      "no_of_classes": 3,
+      "classes": ["physics","english", "maths"],
+
+      "picture": "https://akm-img-a-in.tosshub.com/indiatoday/images/bodyeditor/201909/nursing-x349.PNG?r527wrEQgsyWUg09ZKxFNdlU6ZICGSct"
+    },
+    {
+      "name": "Chinmay",
+      "gender": "male",
+      "age": 20,
+      "no_of_classes": 3,
+      "classes": ["physics", "maths","hindi"],
+      "picture": "https://media.istockphoto.com/photos/young-male-educator-stands-proudly-in-school-building-picture-id1023229588?k=20&m=1023229588&s=612x612&w=0&h=frmAGI7ieDZmnqHu1hVRW-PRgBj7YFojTlh8f_dl3BU="
+    },
+    {
+      "name": "Suresh",
+      "gender": "male",
+      "age": 33,
+      "no_of_classes": 3,
+      "classes": ["physics","english", "maths"],
+
+      "picture": "https://image.shutterstock.com/image-photo/portrait-male-teacher-book-on-260nw-1502915426.jpg"
+    },
+    {
+      "name": "Gandhi",
+      "gender": "male",
+      "age": 33,
+      "no_of_classes": 3,
+      "classes": ["physics","hindi", "maths"],
+      "picture": "https://image.shutterstock.com/image-photo/portrait-male-teacher-book-on-260nw-1502915426.jpg"
+    },
+    {
+      "name": "Ram",
+      "gender": "male",
+      "age": 30,
+      "no_of_classes": 3,
+      "classes": ["physics","english", "maths"],
+
+      "picture": "https://image.shutterstock.com/image-photo/happy-friendly-young-teacher-pst-260nw-471483272.jpg"
+    },
+    {
+      "name": "Dhoni",
+      "gender": "male",
+      "age": 45,
+      "no_of_classes": 3,
+      "classes": ["physics", "Hindi","maths"],
+      "picture": "https://image.shutterstock.com/image-photo/portrait-male-teacher-book-on-260nw-1502915426.jpg"
+    },
+    {
+      "name": "Kamal",
+      "gender": "male",
+      "age": 36,
+      "no_of_classes": 2,
+      "classes": ["physics", "maths"],
+      "picture": "https://image.shutterstock.com/image-photo/happy-friendly-young-teacher-pst-260nw-471483272.jpg"
+    },
+    {
+      "name": "Nayana",
+      "gender": "female",
+      "age": 27,
+      "no_of_classes": 2,
+      "classes": ["physics","english"],
+
+      "picture": "https://image.shutterstock.com/image-photo/pretty-teacher-smiling-camera-back-260nw-249725647.jpg"
+    },
+    {
+      "name": "Malini",
+      "gender": "female",
+      "age": 24,
+      "no_of_classes": 3,
+      "classes": ["physics", "computer","biology"],
+      "picture": "https://akm-img-a-in.tosshub.com/indiatoday/images/bodyeditor/201909/nursing-x349.PNG?r527wrEQgsyWUg09ZKxFNdlU6ZICGSct"
+    },
+    {
+      "name": "Deshmukh",
+      "gender": "female",
+      "age": 34,
+      "no_of_classes": 1,
+      "classes": ["physics"],
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4LlMfoGystFVjOuXakpJXx7OhnzQUSQOZsw&usqp=CAU"
+    },
+    {
+      "name": "Fathima",
+      "gender": "female",
+      "age": 23,
+      "no_of_classes": 3,
+      "classes": ["physics", "computer","biology"],
+      "picture": "https://image.shutterstock.com/image-photo/smiling-arabian-woman-sitting-desk-260nw-1362930125.jpg"
+    },
+    {
+      "name": "Ahamed",
+      "gender": "male",
+      "age": 25,
+      "no_of_classes": 2,
+      "classes": ["physics", "maths"],
+      "picture": "https://image.shutterstock.com/image-photo/happy-friendly-young-teacher-pst-260nw-471483272.jpg"
+    },
+    {
+      "name": "Sunil",
+      "gender": "male",
+      "age": 42,
+      "no_of_classes": 3,
+      "classes": ["physics", "maths"],
+      "picture": "https://media.istockphoto.com/photos/young-male-educator-stands-proudly-in-school-building-picture-id1023229588?k=20&m=1023229588&s=612x612&w=0&h=frmAGI7ieDZmnqHu1hVRW-PRgBj7YFojTlh8f_dl3BU="
+    },
+    {
+      "name": "Banu",
+      "gender": "female",
+      "age": 28,
+      "no_of_classes": 3,
+      "classes": ["physics", "computer","biology"],
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4LlMfoGystFVjOuXakpJXx7OhnzQUSQOZsw&usqp=CAU"
+    },
+    {
+      "name": "Kalpana",
+      "gender": "female",
+      "age": 38,
+      "no_of_classes": 3,
+      "classes": ["physics", "computer","biology"],
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0aKRdwXitIGaoGbaFU7y6UyACYpcGnKfdew&usqp=CAU"
+    },
+    {
+      "name": "Sehrawat",
+      "gender": "male",
+      "age": 28,
+      "no_of_classes": 3,
+      "classes": ["physics", "maths"],
+      "picture": "https://image.shutterstock.com/image-photo/happy-friendly-young-teacher-pst-260nw-471483272.jpg"
+    },
+    {
+      "name": "Rohini",
+      "gender": "female",
+      "age": 46,
+      "no_of_classes": 3,
+      "classes": ["physics", "computer","biology"],
+      "picture": "https://akm-img-a-in.tosshub.com/indiatoday/images/bodyeditor/201909/nursing-x349.PNG?r527wrEQgsyWUg09ZKxFNdlU6ZICGSct"
+    },
+    {
+      "name": "Zehera",
+      "gender": "female",
+      "age": 23,
+      "no_of_classes": 3,
+      "classes": ["physics","english", "maths"],
+      "picture": "https://image.shutterstock.com/image-photo/smiling-arabian-woman-sitting-desk-260nw-1362930125.jpg"
+    },
+    {
+      "name": "Zara",
+      "gender": "female",
+      "age": 29,
+      "no_of_classes": 3,
+      "classes": ["physics", "maths","chemistry"],
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4LlMfoGystFVjOuXakpJXx7OhnzQUSQOZsw&usqp=CAU"
+    },
+    {
+      "name": "Maliick",
+      "gender": "male",
+      "age": 38,
+      "no_of_classes": 3,
+      "classes": ["physics", "computer","biology"],
+      "picture": "https://media.istockphoto.com/photos/young-male-educator-stands-proudly-in-school-building-picture-id1023229588?k=20&m=1023229588&s=612x612&w=0&h=frmAGI7ieDZmnqHu1hVRW-PRgBj7YFojTlh8f_dl3BU="
+    },
+    {
+      "name": "Sonu",
+      "gender": "female",
+      "age": 20,
+      "no_of_classes": 3,
+      "classes": ["physics", "maths","chemistry"],
+      "picture": "https://image.shutterstock.com/image-photo/pretty-teacher-smiling-camera-back-260nw-249725647.jpg"
+    }
+  ]  
+}
